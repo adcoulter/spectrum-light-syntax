@@ -112,6 +112,14 @@ atom-text-editor .search-results .marker.current-result .region,
 
   &.other.symbol {
     color: @blue;
+
+    .punctuation {
+      color: @blue;
+    }
+
+    .punctuation.hashkey {
+      color: @light-blue;
+    }
   }
 }
 
@@ -188,7 +196,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.section.embedded {
-    color: darken(@red, 10%);
+    color: @light-blue;
   }
 }
 
