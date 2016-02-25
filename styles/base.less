@@ -309,18 +309,43 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.quote {
-    color: @orange;
+    color: @purple;
   }
 
   &.raw.inline {
     color: @green;
   }
+
 }
 
-.source.gfm .markup {
-  -webkit-font-smoothing: auto;
-  &.heading {
-    color: @green;
+.source.gfm {
+
+  .quote {
+    color: @purple;
+  }
+
+  .username {
+    color: @red;
+  }
+
+  .emoji {
+    color: @light-blue;
+  }
+
+  .markup {
+    -webkit-font-smoothing: auto;
+    &.heading {
+      color: @blue;
+    }
+
+    &.link {
+      color: @green;
+      text-decoration: underline;
+    }
+
+    &.strike {
+      color: @yellow;
+    }
   }
 }
 
