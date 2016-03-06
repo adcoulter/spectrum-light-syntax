@@ -3,10 +3,13 @@
 *This theme is a work in progress.*
 
 **html**
-![html spectrum theme](images/html.example.png)
+
+![html spectrum theme](https://github.com/adcoulter/spectrum-light-syntax/blob/master/images/html.example.png?raw=true)
 
 **scss**
-![html spectrum theme](images/scss.example.png)
+
+![html spectrum theme](https://github.com/adcoulter/spectrum-light-syntax/blob/master/images/scss.example.png?raw=true)
 
 **ruby**
-![html spectrum theme](images/ruby.example.png)
+
+![html spectrum theme](https://github.com/adcoulter/spectrum-light-syntax/blob/master/images/ruby.example.png?raw=true)
