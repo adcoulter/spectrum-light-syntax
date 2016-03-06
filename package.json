@@ -2,9 +2,10 @@
   "name": "spectrum-light-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A colorful light atom syntax. WIP.",
+  "description": "A colorful light atom syntax theme.",
   "keywords": [
     "syntax",
+    "light",
     "theme"
   ],
   "repository": "https://github.com/adcoulter/spectrum-light-syntax",
